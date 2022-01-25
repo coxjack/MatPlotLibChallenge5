@@ -3,7 +3,7 @@ Challenge 5 for Butler Data Science
 
 ## 1. Overview of Ride Analysis
 ### 
-* The goal of this module is to a ride sharing company with their analysis of user, driver, and fare data. We have broken our analysis into city type (rural, suburban, and urban) to group like users together.
+* The goal of this module is to assist a ride sharing company with their analysis of user, driver, and fare data. We have broken our analysis into city type (rural, suburban, and urban) to group like users and drivers together.
 
 ## 2. Results
 ### 
@@ -29,7 +29,7 @@ Challenge 5 for Butler Data Science
 ![Total Fares](https://github.com/coxjack/MatPlotLibChallenge5/blob/main/additional%20supporting%20images/total_fares.png)
 
 * Analysis of average fare per ride
-	- Here is where the analysis flips -- since there are less rides in rural areas it has the highest average fare per ride. Second is suburban and last is urban, this is the inverse of the total rides, total drivers, and total fares data.
+	- Here is where the analysis flips -- since there are less rides in rural areas it has the highest average fare per ride. Second is suburban and last is urban. This is the inverse of the total rides, total drivers, and total fares data.
 
 	  - Average Fare per Ride
 
